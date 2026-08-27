@@ -1,0 +1,14 @@
+{
+  "essentials":  { "label": "Essentials",          "color": "#1F2430", "icon": "★" },
+  "activities":  { "label": "Activities",          "color": "#C2664B", "icon": "🎯" },
+  "coffee":      { "label": "Coffee",              "color": "#8A6240", "icon": "☕" },
+  "restaurants": { "label": "Restaurants",         "color": "#A2453C", "icon": "🍽" },
+  "beaches":     { "label": "Beaches",             "color": "#3B8791", "icon": "🏖" },
+  "pubs":        { "label": "Pubs & Bars",         "color": "#B07A34", "icon": "🍺" },
+  "museums":     { "label": "Museums & Galleries", "color": "#6C5B7E", "icon": "🏛" },
+  "gardens":     { "label": "Gardens & National Trust", "color": "#5C7A52", "icon": "🌿" },
+  "hikes":       { "label": "Hikes",               "color": "#8A6B3D", "icon": "🥾" },
+  "ww2":         { "label": "WW2 Occupation Sites", "color": "#54565F", "icon": "🪖" },
+  "shopping":    { "label": "Shopping",            "color": "#AD8B2E", "icon": "🛍" },
+  "viewpoints":  { "label": "Viewpoints",          "color": "#3A5F7D", "icon": "🔭" }
+}
